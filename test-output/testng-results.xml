@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-06T21:26:49 IST" name="Default suite" finished-at="2024-07-06T21:27:07 IST" duration-ms="18070">
+    <groups>
+    </groups>
+    <test started-at="2024-07-06T21:26:49 IST" name="Default test" finished-at="2024-07-06T21:27:07 IST" duration-ms="18070">
+      <class name="day8_10_06_2024.FBLoginDP">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:day8_10_06_2024.FBLoginDP@485966cc]" started-at="2024-07-06T21:26:49 IST" name="openBrowser" finished-at="2024-07-06T21:26:52 IST" duration-ms="3503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login(java.lang.String,java.lang.String,int)[pri:0, instance:day8_10_06_2024.FBLoginDP@485966cc]" started-at="2024-07-06T21:26:52 IST" name="login" data-provider="dataset" finished-at="2024-07-06T21:26:56 IST" duration-ms="3787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:day8_10_06_2024.FBLoginDP@485966cc]" started-at="2024-07-06T21:26:56 IST" name="openBrowser" finished-at="2024-07-06T21:26:59 IST" duration-ms="2625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login(java.lang.String,java.lang.String,int)[pri:0, instance:day8_10_06_2024.FBLoginDP@485966cc]" started-at="2024-07-06T21:26:59 IST" name="login" data-provider="dataset" finished-at="2024-07-06T21:27:01 IST" duration-ms="1889" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:day8_10_06_2024.FBLoginDP@485966cc]" started-at="2024-07-06T21:27:01 IST" name="openBrowser" finished-at="2024-07-06T21:27:04 IST" duration-ms="3584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login(java.lang.String,java.lang.String,int)[pri:0, instance:day8_10_06_2024.FBLoginDP@485966cc]" started-at="2024-07-06T21:27:04 IST" name="login" data-provider="dataset" finished-at="2024-07-06T21:27:07 IST" duration-ms="2639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- day8_10_06_2024.FBLoginDP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
